@@ -4,4 +4,4 @@ test-repo
 * second thing
 * third thing
 * fourth thing
-* possible fifth thing
+* definite fifth thing
